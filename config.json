@@ -1,0 +1,23 @@
+{
+    "sftp_host": "0.0.0.0",
+    "sftp_port": 12345,
+    "sftp_username": "USER",
+    "sftp_password": "PASS",
+    "sftp_remote_path": "/some/folder",
+    "discord_token": "DISCORD_TOKEN",
+    "discord_webhook": "https://discord.com/api/webhooks/XXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "channel_notification": 000000000000000000,
+    "sftp_check_interval": 2,
+    "detection_threshold": 50,
+    "detection_model": "./models/yolov3.pt",
+    "cameras": [
+        {
+            "name": "Driveway",
+            "enabled": true
+        },
+        {
+            "name": "Doorbell",
+            "enabled": true
+        }
+   ]
+}
