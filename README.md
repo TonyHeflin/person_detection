@@ -1,7 +1,6 @@
 # Pytorch Person Detection for Surviellance System
 
-This is something I threw together. It is probably not the most effecient way to acom[plish tthe task but it works. 
-There are bugs, uncaught exceptions and the possibility to open a space/time rift and destroy the universe. Use at your own risk.
+This is something I threw together to fit my personal needs. It is probably not the most effecient way to acomplish the task but it works. There are bugs, uncaught exceptions and the possibility to open a space/time rift and destroy the universe. Use at your own risk. Ifd you find this useful drop me a note. If you improve it please push the updates.
 
 
 ## Details
