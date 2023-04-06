@@ -4,7 +4,7 @@ This is something I threw together to fit my personal needs. It is probably not 
 
 
 ## Details
-This bot is designed to monitor a SFTP folder for image files and detect if a person is present in the image using ImageAI. If a person is detected, the bot sends a message with the image to a specified Discord channel. The bot also allows for the deletion of a specified number of messages in a text channel and the enabling/disabling of cameras.
+This bot monitors a SFTP folder for image files and detects if a person is present in the image using ImageAI. If a person is detected, the bot sends a message with the image to a specified Discord channel. The bot also allows for the deletion of a specified number of messages in a text channel and the enabling/disabling of cameras.
 
 To use the bot, the user must first create a config.json file containing the necessary information for the bot to function properly. This includes Discord bot token, webhook URL, SFTP server details, camera information, and detection model and threshold.
 
