@@ -9,3 +9,5 @@ This bot monitors a SFTP folder for image files and detects if a person is prese
 To use the bot, the user must first create a config.json file containing the necessary information for the bot to function properly. This includes Discord bot token, webhook URL, SFTP server details, camera information, and detection model and threshold.
 
 The bot has two additional commands: !delete and !camera. !delete can be used to delete a specified number of messages in a text channel, and !camera can be used to check the status of cameras or enable/disable specific cameras.
+
+person-detector by Tony Heflin is licensed under CC BY-SA 4.0 
